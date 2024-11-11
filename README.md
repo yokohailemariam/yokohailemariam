@@ -36,7 +36,7 @@ I am actively pursuing remote opportunities as a Frontend Developer with a focus
 ## Connect With Me
 
 - **Email**: [your.email@example.com](mailto:yokohailemariam@gmail.com.com)
-- **LinkedIn**: [Your LinkedIn Profile]([(https://www.linkedin.com/in/yoko-hailemariam-16163b69/)])
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yoko-hailemariam-16163b69/)
 - **Portfolio**: [Your Portfolio Website](https://yokohm.com)
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with like-minded professionals and potential collaborators!
