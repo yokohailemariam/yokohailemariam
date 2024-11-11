@@ -1,39 +1,42 @@
-<h1 align="center">Hi 👋, I'm Yoko</h1>
-<h3 align="center">A passionate Front-end developer from Ethiopia</h3>
+# Hello, I'm Yoko Hailemariam 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yokohailemariam" alt="yokohailemariam" /></a> </p>
+I'm a dedicated Frontend Developer, specializing in crafting high-quality, user-centric web and mobile applications. With extensive experience in **React** and **Next.js**, as well as proficiency in **Flutter**, **Django**, **NodeJs** and **NestJS**, I bring a comprehensive, full-stack approach to modern application development.
 
-<p align="left"> <a href="https://twitter.com/_paxyo" target="blank"><img src="https://img.shields.io/twitter/follow/_paxyo?logo=twitter&style=for-the-badge" alt="_paxyo" /></a> </p>
+## Technical Expertise
 
-- 🔭 I’m currently working on [Zema Multimedia](https://play.google.com/store/apps/details?id=com.zema.music.player&hl=en&gl=US)
+- **Frontend**: React, Next.js, Flutter, shadcn, Tailwind CSS
+- **State Management**: Zustand, React Query, Redux Toolkit, GetX, Provider
+- **Backend**: Django, Django REST Framework, Node.js, Express.js, NestJS
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Additional Skills**: GSAP and Framer for animations, Google Firebase for notifications, JWT-based authentication, GraphQL, TypeORM
 
-- 💬 Ask me about **ReactJS NextJS Flutter**
+## Notable Projects
 
-- 📫 How to reach me **yokohailemariam@gmail.com**
+- **China to Africa** - An e-commerce platform to connect Chinese and African businesses , using NextJs to promote cross-border commerce.
+- **Invest in Poverty Initiatives (IPI)** - Offering service-based credit access. Optimized user interface with NextJs to support financial inclusion and economic empowerment.
+- **Korojo** – C2C Social Marketplace: A mobile-first platform empowering C2C transactions, built with React, Flutter, and Next.js.
+- **Zema Multimedia** - music streaming app with Flutter and an admin panel in ReactJS.
+- **Leza Award** – Artist Voting Platform: A responsive, mobile and web platform enabling users to vote for their favorite artists, created with React and Flutter.
+- **Power Ethiopia** – E-commerce and Education Platform: Supports the sale of power products and provides instructional resources, developed with Node.js, Flutter, and React.
+- **Kbdir** – Credit & Service Platform: An innovative loan alternative where services replace traditional credit, developed as part of PurposeBlack Global’s Invest in Poverty Initiatives (IPI).
+- **Dagu** – Parcel Delivery System: A robust, user-friendly solution for parcel delivery, leveraging Flutter and React for a seamless cross-platform experience.
+  
+## Open Source Contributions
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I am an advocate for open-source software and enjoy collaborating with the developer community to contribute solutions and ideas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/yokohailemariam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yokohailemariam" height="30" width="40" /></a>
-<a href="https://twitter.com/_paxyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_paxyo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yoko-hailemariam-16163b69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yoko-hailemariam-16163b69/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yoko-hailemariam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yoko-hailemariam" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/yokohailemariam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yokohailemariam/" height="30" width="40" /></a>
-<a href="https://instagram.com/_paxyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_paxyo" height="30" width="40" /></a>
-<a href="https://medium.com/@yokohailemariam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yokohailemariam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yokohailemariam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yokohailemariam" height="30" width="40" /></a>
-</p>
+## Professional Growth & Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+Currently expanding my expertise in **C++** and **Python** while further developing my skills in **NestJS** with a focus on database relations and advanced backend architectures.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/yokohailemariam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yokohailemariam" /></a></p><br><br>
+## Career Interests
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yokohailemariam&show_icons=true&locale=en&layout=compact" alt="yokohailemariam" /></p>
+I am actively pursuing remote opportunities as a Frontend Developer with a focus on building impactful, scalable applications in sectors such as **healthcare**, **fintech**, and **eCommerce**. My goal is to leverage my skills and experience to contribute to innovative projects and drive meaningful results.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yokohailemariam&show_icons=true&locale=en" alt="yokohailemariam" /></p>
+## Connect With Me
 
+- **Email**: [your.email@example.com](mailto:yokohailemariam@gmail.com.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yoko-hailemariam-16163b69/))
+- **Portfolio**: [Your Portfolio Website](https://yokohm.com)
+
+Thank you for visiting my GitHub profile, and I look forward to connecting with like-minded professionals and potential collaborators!
